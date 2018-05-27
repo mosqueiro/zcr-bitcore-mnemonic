@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/mosqueiro/bitcore-mnemonic.git"
+    "url": "https://github.com/mosqueiro/zcr-bitcore-mnemonic.git"
   },
   "keywords": [
     "bitcoin",
